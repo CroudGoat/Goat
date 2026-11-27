@@ -1,0 +1,6 @@
+{
+  "name": "CLOUDGOAT",
+  "description": "Monochrome halftone creative studio and visual portfolio by CLOUDGOAT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
